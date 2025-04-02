@@ -1,8 +1,8 @@
-package main
+package datastructures
 
 import "fmt"
 
-func main() {
+func Array() {
 	var a [5]int
 	fmt.Println("emp:", a)
 
