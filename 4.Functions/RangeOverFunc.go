@@ -1,8 +1,8 @@
-package main
+package functions
 
 import "fmt"
 
-func main() {
+func RangOverFunction() {
 	nums := []int{1, 2, 3}
 	sums := 0
 
