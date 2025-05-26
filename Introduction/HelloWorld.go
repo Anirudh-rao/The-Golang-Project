@@ -1,8 +1,8 @@
-package main
+package Introduction
 
 import "fmt"
 
-func main() {
+func HelloWorld() {
 	fmt.Println("Hello World\n")
 	fmt.Println("Welcome to world of Go!")
 }
