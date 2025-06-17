@@ -1,8 +1,8 @@
-package main
+package conditonals
 
 import "fmt"
 
-func main() {
+func forLoop() {
 	i := 1
 	for i <= 3 {
 		fmt.Println(i)
