@@ -1,11 +1,11 @@
-package main
+package advancefunctions
 
 import (
 	"fmt"
 	"unicode/utf8"
 )
 
-func main() {
+func StringsandRunes() {
 	const s = "สวัสดี"
 
 	fmt.Println("Length of String:", len(s))
