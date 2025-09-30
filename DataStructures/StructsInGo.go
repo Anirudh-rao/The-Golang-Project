@@ -1,4 +1,4 @@
-package advancefunctions
+package datastructures
 
 import "fmt"
 
