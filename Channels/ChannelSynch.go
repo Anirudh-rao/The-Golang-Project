@@ -1,4 +1,4 @@
-package Extras
+package channels
 
 import (
 	"fmt"
