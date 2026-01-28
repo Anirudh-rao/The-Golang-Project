@@ -1,8 +1,8 @@
-package main
+package channels
 
 import "fmt"
 
-func main() {
+func RangOverFunctions() {
 	queue := make(chan string, 2)
 	queue <- "one"
 	queue <- "two"
